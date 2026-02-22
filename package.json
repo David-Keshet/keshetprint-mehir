@@ -1,0 +1,12 @@
+{
+  "name": "keshetprint-mehir",
+  "version": "1.0.0",
+  "description": "Hebrew printing price calculator",
+  "scripts": {
+    "build": "echo 'No build step needed for static HTML'",
+    "start": "echo 'Static site - no start script needed'"
+  },
+  "keywords": ["hebrew", "calculator", "printing"],
+  "author": "",
+  "license": "ISC"
+}
